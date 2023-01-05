@@ -3,7 +3,8 @@ A case study for predicting landslide susceptibility based on terrain informatio
 <br>
 
 ## Data Sources
-The dataset is obtained from the Landslide Prevention and Innovation Challenge on Zindi Africa Platform that is provided by the Hong Kong University of Science and Technology (2022). Refer to <https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge>.
+The dataset is obtained from the Landslide Prevention and Innovation Challenge on Zindi Africa Platform that is provided by the Hong Kong University of Science and Technology (2022).
+<br>Refer to <https://zindi.africa/competitions/landslide-prevention-and-innovation-challenge>.
 
 ## File Description
 This project was conducted using JMP Pro. The files include the JMP Pro working files, the final landslide poster and research paper.
